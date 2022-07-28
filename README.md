@@ -17,7 +17,7 @@
 - Front-End: React
 - Back-End: Node.js, Express
 - Databases: PostgreSQL, Supabase
-- Tools: VScode, Postman, Netlify, Heroku, Github, Git, Miro, Slack
+- Tools: VScode, Postman, Beekeeper, Netlify, Heroku, Github, Git, Miro, Slack
 - Testing Suites: Jest, Q-Unit, React
 - Skills: TDD, Remote Collaboration, Pair/Mob Programming
 
