@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- ✨ My name is Mariah
+- 🖥 I'm a Full Stack Software Engineer
+- 🙋‍♀️ I use she/her pronouns
+- 🏔 I enjoy hiking and paddle-boarding
+- 🌱 I'm currently learning how to build a backend using postgres/express
+- 👯‍♀️ I'm looking to collaborate on apps with a focus on user friendliness
+- 🤠 Fun fact: I like to do country dancing and west coast swing 
+- 📫 Email me at: mariahschock@gmail.com
+
+
+
 <!--
 **mariahschock/mariahschock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
